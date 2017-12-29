@@ -1,5 +1,7 @@
 // var.h
 
+#ifndef VAR_H
+#define VAR_H
 #define DEBUG
 #define INFO
 
@@ -14,3 +16,4 @@
 
 #define WIFI_SSID  "FreeboxDELMaison"
 #define WIFI_PASS  "!KillBill10!"
+#endif // VAR_H
